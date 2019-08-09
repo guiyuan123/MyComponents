@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guiyuan123/MyComponents/issues"
   },
-  "homepage": "https://github.com/guiyuan123/MyComponents#readme"
+  "homepage": "https://github.com/guiyuan123/MyComponents#readme",
+  "dependencies": {
+    "xlsx": "^0.15.0"
+  }
 }
